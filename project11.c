@@ -1,3 +1,4 @@
+/*	NOTE! DOESN'T WORK PROPERLY!	*/
 /*	This version gets KEY_RIGHT data for very large arrays!! 	*/
 /*  It also doesn't work for large enough arrays  */
 /*  Also, Bad variance data. */
