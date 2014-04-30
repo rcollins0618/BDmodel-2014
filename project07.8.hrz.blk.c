@@ -1,7 +1,7 @@
-/* This is the horizontal block version of project07.8.c
-Please keep this window size to at least 100w x 35h as well. */
+/* THIS ONE HAS CORRECT VARIANCE VALUES!!! REJOICE!!!
 
-/* This is the sticky version. Please keep this window size to at least 100w x 35h as well. */
+This is the horizontal block version of project07.8.c
+Please keep this window size to at least 100w x 35h as well. */
 
 #include <ncurses.h>
 #include <stdio.h>
