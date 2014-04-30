@@ -1,3 +1,6 @@
+/*	First animation. Non-Sticky Deposition within a 100w x 35h 
+matrix. "Tetris Mode"	*/
+
 #include <ncurses.h>
 #include <stdio.h>
 #include <time.h>
