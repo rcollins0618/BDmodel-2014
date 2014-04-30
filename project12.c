@@ -1,4 +1,6 @@
-/*  This is a working version of project11.c  */
+/*	This is a working version of project11.c, 
+	though both report incorrect VARIANCE values!
+	This is fixed (finally) in project13.c				*/
 /*	This version gets KEY_RIGHT data for very large arrays!! 	*/
 
 #include <stdio.h>
