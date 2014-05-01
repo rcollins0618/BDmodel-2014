@@ -40,4 +40,5 @@ void initscreen(void) {
 		refresh();
 		getch();
 	}
+	endwin();
 }
