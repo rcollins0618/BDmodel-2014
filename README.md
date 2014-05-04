@@ -1,7 +1,7 @@
-BallisticDepositionModel-2014
+Ballistic Deposition Model - Spring 2014
 ==============================
 
-Class Project for Applied Probability
+Class Project for Applied Probability (SUNYIT)
 
 
 PURPOSE:
