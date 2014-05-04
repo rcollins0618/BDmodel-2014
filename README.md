@@ -1,4 +1,4 @@
-BalllisticDepositionModel-2014
+BallisticDepositionModel-2014
 ==============================
 
 Class Project for Applied Probability
