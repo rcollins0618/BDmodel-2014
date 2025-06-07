@@ -44,7 +44,7 @@ int main(void)
 
 				yhts[xrnd[i]] = 1;
 				yvar[i] = 0;
-				for (k-0; k<100; k++) {
+                                for (k=0; k<100; k++) {
 					ymu[i] = ymu[i]+(float)yhts[k]/100;
 					ftemp = ((float)yhts[k] - ymu[i]);
 					ftemp = ftemp * ftemp;
