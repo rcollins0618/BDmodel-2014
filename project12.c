@@ -205,12 +205,12 @@ int main(void)
 
 void zeroit(int **scnarr, int nrows, int ncols)
 {
-	int i, j;
-	for (i=0; i<H; i++) {
-		for (j=0; j<W; j++) {
-			scnarr[i][j]=0;
-		}
-	}
+        int i, j;
+        for (i=0; i<nrows; i++) {
+                for (j=0; j<ncols; j++) {
+                        scnarr[i][j]=0;
+                }
+        }
 }
 
 
