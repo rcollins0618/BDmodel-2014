@@ -36,6 +36,11 @@ HOW TO COMPILE:
   
 (This assumes gcc and the ncurses library is installed. For ubuntu, a simple "sudo apt-get install gcc libncurses5" should do.)
 
+TESTING THE SOURCE CODE:
+
+* Run `./test_compile.sh` to compile every `project*.c` file. The script stops
+  if any of the files fail to build.
+
 
 
 
